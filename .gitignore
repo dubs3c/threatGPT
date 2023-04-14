@@ -1,0 +1,5 @@
+.DS_Store
+.chroma
+.ipynb*
+venv/
+openai.key
